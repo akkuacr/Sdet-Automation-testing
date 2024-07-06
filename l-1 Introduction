@@ -1,0 +1,38 @@
+Introduction:-
+1.Software testing is the process of finding defects in a software 
+2.The goal is to release quality software to the customer/ client
+
+manual testing:
+1.Performing the testing without using any tools is known as Manual Testing.
+2. here a tester/person will do the testing .
+
+1)Re-testing :- Executing the same test cases multiple times where the bug is found
+2)Regression testing:- executing the whole test cases and multiple test cases multiple times
+
+
+Automation Testing
+ Performing the testing with the help of tools is known as Automation Testing 
+
+Steps for Automation Testing 
+1. write the whole test cases data
+2. write the script for automation  
+
+Selenium Introduction:-
+----------------------------
+It is a web based automation tool/library
+It was originally devloped by Jason Huggins in 2004 ThoughtWorks Company
+It is open source
+It is free
+Selenium is collection of multiple components (IDE, WebDriver,Grid)
+
+
+
+types of applications
+1) Web based Application
+2) Desktop Applications
+3) Mobile Applications
+
+
+
+
+
