@@ -32,6 +32,43 @@ types of applications
 2) Desktop Applications
 3) Mobile Applications
 
+Advantages:
+---------------------
+1) Open Source tool & free
+2) Multiple operating systems
+3) Supports multiple browsers
+4) Support multiple languages (java,python,c#, Ruby,Javascript,etc..)
+5) Integrate third party tools into selenium
+
+Disadvantages/limitations:
+-------------------
+1) cannot support windows based applications (Autoit,sikuli,Robot API)
+2) Reporting not supported (TestNG,Extent reports)
+3) Cannot support excel files(Apache poi)
+4) graphs , captua
+
+selenium versions
+--------------------
+selenium 1.x -->IDE(Firefox),RC,Grid
+Selenium 2.x -->IDE(Firefox),WebDriver,Grid
+Selenium 3.x -->IDE(Firefox,chrome),Webdriver,Grid
+Selenium 4.x ---IDE(firefox chrome edge) , WebDriver Grid
+Selenium 4.10 ---latest version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
