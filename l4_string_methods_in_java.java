@@ -109,7 +109,8 @@ public class Variables {
        s.trim();
        System.out.println(s);
        //aur yha yeh yad rkhna ki yeh sb methods apply krke aap kisi dusre variable m store kr skte ho real string m isse kuch change ni hota 
-       
+       //string is not treated as array here you have to use string method for accessing string elements
+       		
        
        
 		
