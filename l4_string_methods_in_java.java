@@ -105,7 +105,10 @@ public class Variables {
        
        System.out.println(name.replace("J","j").contains("john"));
        System.out.println(name.toLowerCase().contains("john"));
-       
+       s="  Akash ";
+       s.trim();
+       System.out.println(s);
+       //aur yha yeh yad rkhna ki yeh sb methods apply krke aap kisi dusre variable m store kr skte ho real string m isse kuch change ni hota 
        
        
        
