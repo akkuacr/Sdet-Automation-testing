@@ -37,7 +37,7 @@ public class JavaClass {
     	 
     	 System.out.println(response);
     	 
-    	 //JsonPath class used to convert json into string and helpful for parsing the json
+    	 //JsonPath class used to convert string  into json and helpful for parsing the json
     	 JsonPath js= new JsonPath(response);
     	 
     	 String placeId=js.getString("place_id");
