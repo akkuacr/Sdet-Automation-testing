@@ -1,0 +1,4 @@
+POJO-it is plain object java class
+  It supports two things such as 
+  Serialization:- it is a process of converting a java object into request body(payload)
+  Deserialization:- it is a process of conerting a response body to java
