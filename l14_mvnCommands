@@ -1,0 +1,2 @@
+mvn test -to run thes tests
+mvn clean test -D cucumber.filter.tags="@AddPlace"
